@@ -1,4 +1,5 @@
 # MY-first-git-repo
 First project 
-<br> <font color="color_name|hex_number|rgb_number">
+<br>
+<font size="6" face="verdana" color="green">
 Author- WO Harami
